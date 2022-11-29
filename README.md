@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <img src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b95209a3292d012d0c7bf49d075bbd1acc807e6ca311&rid=giphy.gif&ct=s" width="300">
+ <img src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b95209a3292d012d0c7bf49d075bbd1acc807e6ca311&rid=giphy.gif&ct=s" width="250">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/francilene-oliveira-0721b123a/ ">
@@ -15,3 +15,20 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+- :globe_with_meridians: I'm a Computer Networking student at Federal Institute of São Paulo; 
+
+- :mantelpiece_clock: In my free time I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+- :computer: I also like helping non-profitable projects and reading tech articles about AI and Big Data;
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications with some friends;
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francilene-oliveira-0721b123a/)
+
