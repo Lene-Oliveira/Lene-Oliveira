@@ -11,7 +11,7 @@
     </div>
  </div>
  
-<h1>
+<h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
@@ -50,4 +51,5 @@
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lene-Oliveira&theme=dark&background=000000)](https://git.io/streak-stats)
