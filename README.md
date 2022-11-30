@@ -36,7 +36,9 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francilene-oliveira-0721b123a/)
 
----
+ <a align="center">
+ <img src="https://media.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif" width="150" >
+ </a>
 
 <h1 align="center">
  :hammer_and_wrench: Languages and Tools :
@@ -58,13 +60,3 @@
 </h1>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lene-Oliveira&theme=dark&background=000000)](https://git.io/streak-stats) ![Lene-Oliveira! GitHub stats](https://github-readme-stats.vercel.app/api?username=Lene-Oliveira&show_icons=true&theme=dracula)
-
-<h1 align="center">
- Reach out! 
-</h1>
-<a align="center">
-  <img src="https://img.shields.io/badge/Francilene__Oliveira%40proton.me-E--mail-purple" alt="Mail Badge"/>
- </a>
-<a href="https://www.linkedin.com/in/francilene-oliveira-0721b123a/ " align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
