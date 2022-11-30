@@ -23,7 +23,9 @@
 
 ---
 
-### :woman_technologist: About Me :
+<h1 align="center">
+ :woman_technologist: About Me :
+</h1>
 - :globe_with_meridians: I'm a Computer Networking student at Federal Institute of São Paulo; 
 
 - :mantelpiece_clock: In my free time I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -36,7 +38,9 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h1 align="center">
+ :hammer_and_wrench: Languages and Tools :
+</h1>
 
 <div id="icons" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height+"60"/>&nbsp;
@@ -49,8 +53,18 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-
+<h1 align="center">
+:four_leaf_clover: My Stats :
+</h1>
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lene-Oliveira&theme=dark&background=000000)](https://git.io/streak-stats) ![Lene-Oliveira! GitHub stats](https://github-readme-stats.vercel.app/api?username=Lene-Oliveira&show_icons=true&theme=dracula)
 
+<h1 align="center">
+ Reach out! 
+</h1>
+<a align="center">
+  <img src="https://img.shields.io/badge/Francilene__Oliveira%40proton.me-E--mail-purple" alt="Mail Badge"/>
+ </a>
+<a href="https://www.linkedin.com/in/francilene-oliveira-0721b123a/ " align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
