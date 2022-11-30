@@ -59,4 +59,6 @@
 :four_leaf_clover: My Stats :
 </h1>
  <!-- Both are tools that I got from another GitHub repository-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lene-Oliveira&theme=dark&background=000000)](https://git.io/streak-stats) ![Lene-Oliveira! GitHub stats](https://github-readme-stats.vercel.app/api?username=Lene-Oliveira&show_icons=true&theme=dracula)
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lene-Oliveira&theme=dark&background=000000)](https://git.io/streak-stats) 
+![Lene-Oliveira! GitHub stats](https://github-readme-stats.vercel.app/api?username=Lene-Oliveira&show_icons=true&theme=dracula)
