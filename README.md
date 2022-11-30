@@ -26,9 +26,10 @@
 <h1 align="center">
  :woman_technologist: About Me : <!-- All the :[name]: refers to an emoji-->
 </h1>
-- :globe_with_meridians: I'm a Computer Networking student at Federal Institute of São Paulo; 
 
-- :mantelpiece_clock: In my free time I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><!-- Here I added an gif in the line-->
+-  :globe_with_meridians: I'm a Computer Networking student at Federal Institute of São Paulo; 
+
+- :mantelpiece_clock: In my free time I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><!-- Here I added an gif in the line-->
 
 - :computer: I also like helping non-profitable projects and reading tech articles about AI and Big Data;
 
