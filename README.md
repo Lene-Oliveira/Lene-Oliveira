@@ -35,8 +35,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications with some friends;
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francilene-oliveira-0721b123a/)
-- <a href="mailto:Francilene_Oliveira@proton.me">Professional e-mail</a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francilene-oliveira-0721b123a/) or <a href="mailto:Francilene_Oliveira@proton.me">Professional e-mail</a>
 
  <a align="center">
  <img src="https://media.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif" width="150" >
