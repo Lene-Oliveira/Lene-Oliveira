@@ -28,11 +28,7 @@
 </h1>
 
 -  :globe_with_meridians: I'm an IT student at Federal Rio Grande do Norte; 
-
-- :mantelpiece_clock: In my free time I'm a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><!-- Here I added an gif in the line-->
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications with some friends;
-
+-  
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francilene-oliveira-0721b123a/) or <a href="mailto:Francilene_Oliveira@proton.me">Professional e-mail</a>
 
  <a align="center">
