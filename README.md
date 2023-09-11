@@ -50,8 +50,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 
 </div>
+<div align="center">
+ <h1 align="center"> Portifolio</h1>
+<div align="center">  <div><h3>Antique Store</h3></div>
+ <a  href="https://beatrizbrito314.github.io/projeto_segbimes/"> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-job-search-flaticons-lineal-color-flat-icons-3.png" alt="external-portfolio-job-search-flaticons-lineal-color-flat-icons-3"/></a></div>
+</div>
 
+ 
 ---
+
+
 <h1 align="center">
 :four_leaf_clover: My Stats :
 </h1>
