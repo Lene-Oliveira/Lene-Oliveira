@@ -27,8 +27,6 @@
  :woman_technologist: About Me : <!-- All the :[name]: refers to an emoji-->
 </h1>
 
--  :globe_with_meridians: I'm an IT student at Federal Rio Grande do Norte; 
--  
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francilene-oliveira-0721b123a/) or <a href="mailto:Francilene_Oliveira@proton.me">Professional e-mail</a>
 
  <a align="center">
